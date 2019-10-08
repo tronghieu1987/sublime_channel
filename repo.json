@@ -1,0 +1,16 @@
+{
+	"schema_version": "3.0.0",
+
+	"packages": [
+		{
+			"name": "pure-sasl",
+			"details": "https://github.com/tronghieu1987/pure-sasl",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		}
+	]
+}
