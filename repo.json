@@ -1,14 +1,17 @@
 {
 	"schema_version": "3.0.0",
-
-	"packages": [
+	"dependencies": [
 		{
 			"name": "pure-sasl",
-			"details": "https://github.com/tronghieu1987/pure-sasl",
+			"load_order": "50",
+			"description": "Python SASL client",
+			"author": "hieutran",
+			"issues": "https://github.com/codexns/sublime-bz2/issues",
 			"releases": [
 				{
-					"sublime_text": "*",
-					"tags": true
+					"base": "https://github.com/tronghieu1987/pure-sasl",
+					"tags": true,
+					"sublime_text": "*"
 				}
 			]
 		}
