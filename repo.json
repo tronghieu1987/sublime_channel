@@ -14,6 +14,20 @@
 					"sublime_text": "*"
 				}
 			]
+		},
+		{
+			"name": "winkerberos",
+			"load_order": "50",
+			"description": "winkerberos package",
+			"author": "hieutran",
+			"issues": "https://github.com/codexns/sublime-bz2/issues",
+			"releases": [
+				{
+					"base": "https://github.com/tronghieu1987/winkerberos",
+					"tags": true,
+					"sublime_text": "*"
+				}
+			]
 		}
 	]
 }
